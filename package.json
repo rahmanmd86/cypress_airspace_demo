@@ -1,0 +1,15 @@
+{
+  "name": "cypress_airspace_demo",
+  "version": "1.0.0",
+  "description": "Demo test framework for airspace using cypress",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^8.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open"
+  },
+  "author": "Md Mahbubur Rahman",
+  "license": "ISC"
+}
